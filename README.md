@@ -8,9 +8,8 @@ Firstly: the code for this project was taken from several locations:
 
 1. My own code and homeworks from this class
 2. Prof Rogan's github, https://github.com/crogan?tab=repositories
-
-3.The Wikipedia for "log-normal disributions", https://en.wikipedia.org/wiki/Log-normal_distribution#Properties
-4. Wikipedia for "Gamma Distributions", https://en.wikipedia.org/wiki/Gamma_distribution
+3. The Wikipedia for "log-normal disributions" https://en.wikipedia.org/wiki/Log-normal_distribution#Properties
+4. Wikipedia for "Gamma Distributions" https://en.wikipedia.org/wiki/Gamma_distribution
 5. stackoverflow https://stackoverflow.com/questions/6871201/plot-two-histograms-on-single-chart-with-matplotlib
 6. https://www.geeksforgeeks.org/how-to-generate-random-numbers-from-a-log-normal-distribution-in-python/
 
